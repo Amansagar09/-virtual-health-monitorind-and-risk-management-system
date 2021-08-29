@@ -1,4 +1,5 @@
-# -virtual-health-monitoring[asa.md](https://github.com/Amansagar09/-virtual-health-monitorind-and-risk-management-system/files/7072181/asa.md)
+# -virtual-health-monitoring -and-risk-management-system
+[asa.md](https://github.com/Amansagar09/-virtual-health-monitorind-and-risk-management-system/files/7072181/asa.md)
 ![Aspose Words 180d56cf-79bb-49a9-834a-f0432e347198 001](https://user-images.githubusercontent.com/87071363/131244715-b7599726-5bad-4aa0-935c-53e993ae7f09.png)
 ![Aspose Words 180d56cf-79bb-49a9-834a-f0432e347198 002](https://user-images.githubusercontent.com/87071363/131244717-73286699-47fc-4776-813f-cb82d7cad297.jpeg)
 ![Aspose Words 180d56cf-79bb-49a9-834a-f0432e347198 003](https://user-images.githubusercontent.com/87071363/131244718-3ecf55f6-aeeb-4e5d-a86c-cd0ed8bc7231.jpeg)
@@ -14,4 +15,4 @@
 ![Aspose Words 180d56cf-79bb-49a9-834a-f0432e347198 013](https://user-images.githubusercontent.com/87071363/131244729-02ab90a4-2302-49e5-80ef-37cb6adc6c39.jpeg)
 ![Aspose Words 180d56cf-79bb-49a9-834a-f0432e347198 014](https://user-images.githubusercontent.com/87071363/131244730-eb4c3259-e10c-470e-a31c-d3e2c8b07536.jpeg)
 ![Aspose Words 180d56cf-79bb-49a9-834a-f0432e347198 015](https://user-images.githubusercontent.com/87071363/131244731-ab70de15-8c18-41d3-9d64-d4c9720f2f58.jpeg)
--and-risk-management-system
+
